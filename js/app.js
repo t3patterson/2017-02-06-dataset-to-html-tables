@@ -8,3 +8,5 @@
 //             that will remove the record from the data set and 
 //             render the new smaller data set back to the u.i.
 //-----------------------------------------------------------
+
+console.log(userAccountsList)

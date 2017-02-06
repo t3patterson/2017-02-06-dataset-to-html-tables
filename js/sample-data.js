@@ -1,4 +1,4 @@
-var dataArray = [  
+var userAccountsList = [  
       {  
          "gender":"male",
          "name":{  
